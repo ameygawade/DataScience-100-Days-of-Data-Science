@@ -16,3 +16,9 @@ Week 3-4 Model Tuning & Feature Engineering/Day-24 Navies Bayes Classifier/compl
 Week 9-10 Deep Learning/Day-63 Deep Learning Project/best_ffnn.keras
 Week 9-10 Deep Learning/Day-63 Deep Learning Project/fraud_detection_model.keras
 Week 11-12  Sequential Models and Advanced AI Concepts/Day-75 Text Generation using RNN/day75_lstm_textgen.keras
+artifacts_day77/gru_intent_model.h5
+artifacts_day77/gru_intent_model.keras
+artifacts_day77/label_encoder.pkl
+artifacts_day77/tag_to_responses.json
+artifacts_day77/tokenizer.pkl
+Week 11-12  Sequential Models and Advanced AI Concepts/Day-75 Text Generation using RNN/day75_tokenizer.json
